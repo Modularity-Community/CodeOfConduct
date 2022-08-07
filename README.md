@@ -60,7 +60,7 @@ perwakilan yang ditunjuk pada kegiatan online maupun offline.
 ## Penegakan
 
 Tindakan kasar, pelecehan, atau perilaku tidak dapat diterima lainnya yang terjadi
-dapat dilaporkan kepada pengelola komunitas di [INSERT EMAIL ADDRESS] untuk
+dapat dilaporkan kepada pengelola komunitas di modularity@gmail.com untuk
 diselesaikan.
 Semua keluhan akan ditinjau dan diselidiki secara tepat dan adil.
 

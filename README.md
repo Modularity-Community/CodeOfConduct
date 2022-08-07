@@ -1,4 +1,4 @@
-# Kode Etik Contributor Covenant
+# Kode Etik Modularity Community
 
 ## Ikrar Kami
 
